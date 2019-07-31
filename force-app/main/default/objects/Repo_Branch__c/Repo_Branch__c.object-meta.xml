@@ -152,12 +152,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Branch</label>
+    <label>Repo Branch</label>
     <nameField>
-        <label>Branch</label>
+        <label>Branch Title</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Branches</pluralLabel>
+    <pluralLabel>Repo Branches</pluralLabel>
     <searchLayouts/>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>

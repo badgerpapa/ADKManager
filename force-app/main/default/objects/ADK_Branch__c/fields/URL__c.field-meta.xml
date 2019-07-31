@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>URL__c</fullName>
+    <externalId>false</externalId>
+    <formula>Deployer__r.Base_URL__c &amp;&quot;/launch?template=&quot;&amp; Repository_Branch__r.Repo_URL__c &amp;  Extra_URL_Parameters__c</formula>
+    <label>URL</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
